@@ -2,8 +2,7 @@
 
 This repository contains the code and experiments for the paper:
 
-[Byzantine-Robust Aggregation in Federated Learning Empowered Industrial IoT]
-(https://arxiv.org/abs/2101.05880)
+[Byzantine-Robust Aggregation in Federated Learning Empowered Industrial IoT](https://www.eee.hku.hk/~iotlab/journals/AutoGM_draft.pdf)
 
 ## Datasets
 
