@@ -160,3 +160,5 @@ experiments/results/*
 /models/data/
 /metrics/*.txt
 /results/
+*.ipynb
+/data/cifar10/
